@@ -1,0 +1,26 @@
+
+
+[2022-06-24 01:20:41] Failed to read store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2022-06-24 01:20:41] Failed to read store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2022-06-24 01:20:41] Failed to read store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2022-06-24 01:20:41] Failed to read store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2022-06-24 01:20:41] Flushed store 'install' to 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2022-06-24 01:20:42] Flushed store 'install' to 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf'
+
+
+[2022-06-24 01:31:44] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 01:31:44] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 01:31:44] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+
+
+[2022-06-24 10:30:18] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:18] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:18] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:18] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+
+
+[2022-06-24 10:30:23] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:23] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:23] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:23] Loaded store 'install' from 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2022-06-24 10:30:25] Flushed store 'install' to 'C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\config\config.vdf'

@@ -1,0 +1,110 @@
+
+
+[2022-06-24 01:20:32] Startup - updater built Jun  8 2020 17:15:58
+[2022-06-24 01:20:32] Checking for update on startup
+[2022-06-24 01:20:32] Checking for available update...
+[2022-06-24 01:20:32] Downloading manifest: client-download.steampowered.com/client/steam_cmd_win32
+[2022-06-24 01:20:33] Package file steamcmd_public_all.zip.cbb3352bcb503f3bf8261effdae915e83aec74f1 missing or incorrect size
+[2022-06-24 01:20:33] Package file steamcmd_bins_win32.zip.vz.d90bd98d22011b0df989aaeca259b79660797a3a_6213469 missing or incorrect size
+[2022-06-24 01:20:33] Package file steamcmd_steamservice_win32.zip.vz.5696d66a1e7546455b62cc1d10d742597df2bc01_1682627 missing or incorrect size
+[2022-06-24 01:20:33] Package file steamcmd_steamerrorreporter_win32.zip.420bb048ca721a06812453f995ef4ffff0cfe857 missing or incorrect size
+[2022-06-24 01:20:33] Package file steamcmd_siteserverui_win32.zip.vz.30f8986d48c7727d789a2768bc4bdce92fdcf86d_33669256 missing or incorrect size
+[2022-06-24 01:20:33] Package file steamcmd_win32.zip.vz.19aa5da8b19fa6ddea0460bf4f09d74a6112f772_1687109 missing or incorrect size
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_public_all.zip.cbb3352bcb503f3bf8261effdae915e83aec74f1
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_bins_win32.zip.vz.d90bd98d22011b0df989aaeca259b79660797a3a_6213469
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_steamservice_win32.zip.vz.5696d66a1e7546455b62cc1d10d742597df2bc01_1682627
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_steamerrorreporter_win32.zip.420bb048ca721a06812453f995ef4ffff0cfe857
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_siteserverui_win32.zip.vz.30f8986d48c7727d789a2768bc4bdce92fdcf86d_33669256
+[2022-06-24 01:20:33] Add pending download: cdn.akamai.steamstatic.com/client/steamcmd_win32.zip.vz.19aa5da8b19fa6ddea0460bf4f09d74a6112f772_1687109
+[2022-06-24 01:20:33] Downloading update (1,691 of 42,467 KB)...
+[2022-06-24 01:20:33] Downloading update (10,253 of 42,467 KB)...
+[2022-06-24 01:20:33] Downloading update (14,916 of 42,467 KB)...
+[2022-06-24 01:20:34] Downloading update (17,665 of 42,467 KB)...
+[2022-06-24 01:20:34] Downloading update (20,694 of 42,467 KB)...
+[2022-06-24 01:20:34] Downloading update (23,468 of 42,467 KB)...
+[2022-06-24 01:20:34] Downloading update (27,246 of 42,467 KB)...
+[2022-06-24 01:20:35] Downloading update (32,579 of 42,467 KB)...
+[2022-06-24 01:20:35] Downloading update (37,351 of 42,467 KB)...
+[2022-06-24 01:20:35] Downloading update (42,144 of 42,467 KB)...
+[2022-06-24 01:20:36] Downloading update (42,467 of 42,467 KB)...
+[2022-06-24 01:20:36] Download Complete.
+[2022-06-24 01:20:36] uninstalled manifest found in C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\builder\package\steam_cmd_win32 (1).
+[2022-06-24 01:20:36] Found pending update
+[2022-06-24 01:20:36] Applying update...
+[2022-06-24 01:20:36] Extracting package...
+[2022-06-24 01:20:38] Installing update...
+[2022-06-24 01:20:39] Committing NTFS transaction (0 non-transactional backup files)
+[2022-06-24 01:20:39] Cleaning up...
+[2022-06-24 01:20:39] Update complete, launching...
+[2022-06-24 01:20:39] Shutdown
+
+
+[2022-06-24 01:20:39] Startup - updater built Jun  6 2022 20:20:03
+[2022-06-24 01:20:39] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2022-06-24 01:20:39] Using the following download hosts for Public, Realm steamglobal
+[2022-06-24 01:20:39] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-06-24 01:20:39] Checking for update on startup
+[2022-06-24 01:20:39] Checking for available updates...
+[2022-06-24 01:20:39] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2022-06-24 01:20:39] Manifest download: send request
+[2022-06-24 01:20:39] Manifest download: waiting for download to finish
+[2022-06-24 01:20:39] Manifest download: finished
+[2022-06-24 01:20:39] Download skipped: /client/steam_cmd_win32 version 1654574676, installed version 1654574676, existing pending version 0
+[2022-06-24 01:20:39] Nothing to do
+[2022-06-24 01:20:39] Verifying installation...
+[2022-06-24 01:20:39] Performing checksum verification of executable files
+[2022-06-24 01:20:40] Verification complete
+[2022-06-24 01:20:42] Shutdown
+
+
+[2022-06-24 01:31:43] Startup - updater built Jun  6 2022 20:20:03
+[2022-06-24 01:31:44] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2022-06-24 01:31:44] Using the following download hosts for Public, Realm steamglobal
+[2022-06-24 01:31:44] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-06-24 01:31:44] Checking for update on startup
+[2022-06-24 01:31:44] Checking for available updates...
+[2022-06-24 01:31:44] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2022-06-24 01:31:44] Manifest download: send request
+[2022-06-24 01:31:44] Manifest download: waiting for download to finish
+[2022-06-24 01:31:44] Manifest download: finished
+[2022-06-24 01:31:44] Download skipped: /client/steam_cmd_win32 version 1654574676, installed version 1654574676, existing pending version 0
+[2022-06-24 01:31:44] Nothing to do
+[2022-06-24 01:31:44] Verifying installation...
+[2022-06-24 01:31:44] Performing checksum verification of executable files
+[2022-06-24 01:31:44] Verification complete
+
+
+[2022-06-24 10:30:17] Startup - updater built Jun  6 2022 20:20:03
+[2022-06-24 10:30:17] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2022-06-24 10:30:17] Using the following download hosts for Public, Realm steamglobal
+[2022-06-24 10:30:17] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-06-24 10:30:17] Checking for update on startup
+[2022-06-24 10:30:17] Checking for available updates...
+[2022-06-24 10:30:17] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2022-06-24 10:30:18] Manifest download: send request
+[2022-06-24 10:30:18] Manifest download: waiting for download to finish
+[2022-06-24 10:30:18] Manifest download: finished
+[2022-06-24 10:30:18] Download skipped: /client/steam_cmd_win32 version 1654574676, installed version 1654574676, existing pending version 0
+[2022-06-24 10:30:18] Nothing to do
+[2022-06-24 10:30:18] Verifying installation...
+[2022-06-24 10:30:18] Performing checksum verification of executable files
+[2022-06-24 10:30:18] Verification complete
+[2022-06-24 10:30:19] Shutdown
+
+
+[2022-06-24 10:30:23] Startup - updater built Jun  6 2022 20:20:03
+[2022-06-24 10:30:23] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2022-06-24 10:30:23] Using the following download hosts for Public, Realm steamglobal
+[2022-06-24 10:30:23] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-06-24 10:30:23] Checking for update on startup
+[2022-06-24 10:30:23] Checking for available updates...
+[2022-06-24 10:30:23] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2022-06-24 10:30:23] Manifest download: send request
+[2022-06-24 10:30:23] Manifest download: waiting for download to finish
+[2022-06-24 10:30:23] Manifest download: finished
+[2022-06-24 10:30:23] Download skipped: /client/steam_cmd_win32 version 1654574676, installed version 1654574676, existing pending version 0
+[2022-06-24 10:30:23] Nothing to do
+[2022-06-24 10:30:23] Verifying installation...
+[2022-06-24 10:30:23] Performing checksum verification of executable files
+[2022-06-24 10:30:23] Verification complete
+[2022-06-24 10:30:25] Shutdown

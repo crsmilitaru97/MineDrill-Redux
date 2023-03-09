@@ -1,0 +1,21 @@
+"AppBuild"
+{
+	"AppID" "688750" // your AppID
+	"Desc" "EA 1.0 Test" // internal description for this build
+
+	"ContentRoot" "C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\content\" // root content folder, relative to location of this file
+	"BuildOutput" "C:\Users\crist\Documents\Unity Projects\MineDrill Redux\steamworks_sdk_154\sdk\tools\ContentBuilder\output" // build output folder for build logs and build cache files
+
+	"Depots"
+	{
+		"688752" // your DepotID
+		{
+			"FileMapping"
+			{
+				"LocalPath" "*" // all files from contentroot folder
+				"DepotPath" "." // mapped into the root of the depot
+				"recursive" "1" // include all subfolders
+			}
+		}
+	}
+}
